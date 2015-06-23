@@ -1,4 +1,4 @@
-## 18F Guides Template
+## Design Principles Guide
 
 This is a skeleton repo containing the
 [CFPB/DOCter](https://github.com/CFPB/DOCter)-based
