@@ -1,6 +1,6 @@
-baseurl: /guides-template
+baseurl: /design-principles-guide
 markdown: redcarpet
-name: 18F Guides Template
+name: Design Principles Guide
 exclude:
 - go
 - copy-template
