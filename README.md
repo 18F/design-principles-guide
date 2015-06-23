@@ -1,58 +1,15 @@
 ## Design Principles Guide
 
-This is a skeleton repo containing the
+This is a repo containing the background information on design principles and a guide on how to create design principles for your project. The template for this guide is a 
 [CFPB/DOCter](https://github.com/CFPB/DOCter)-based
-[Jekyll](http://jekyllrb.com/) template for
+[Jekyll](http://jekyllrb.com/) template which is used for all
 [18F Guides](http://18f.github.io/guides/).
 
-### Generating the site/hosting locally
+### Why Create This Guide
 
-You will need [Ruby](https://www.ruby-lang.org) ( > version 2.1.5 ). You may
-consider using a Ruby version manager such as
-[rbenv](https://github.com/sstephenson/rbenv) or [rvm](https://rvm.io/) to
-help ensure that Ruby version upgrades don't mean all your
-[gems](https://rubygems.org/) will need to be rebuilt.
+Design Principles play a key role in the underlying success of any design project. They differ from traditional visual design principles as they speak to the resulting experience of a person interacting with a digital solution. 
 
-On OS X, you can use [Homebrew](http://brew.sh/) to install Ruby in
-`/usr/local/bin`, which may require you to update your `$PATH` environment
-variable:
-
-```shell
-$ brew update
-$ brew install ruby
-```
-
-To create a new guide and serve it locally, where `MY-NEW-GUIDE` is the name
-of your new repository:
-
-```shell
-$ git clone git@github.com:18F/guides-template.git MY-NEW-GUIDE
-$ cd MY-NEW-GUIDE
-$ ./go init
-$ ./go serve
-```
-
-This will check that your Ruby version is supported, install the [Bundler
-gem](http://bundler.io/) if it is not yet installed, install all the gems
-needed by the template, and launch a running instance on
-`http://localhost:4000/guides-template/`. (Make sure to include the trailing slash! The built-in
-Jekyll webserver doesn't redirect to it.) That page contains further
-instructions on how to adapt the template to a new guide repository.
-
-After going through these steps, run `./go` to see a list of available
-commands. The `serve` command is the most common for routine development.
-
-You'll need to create a new Github repository for your new guide. To do this, go to github.com/18f and click the "New Repository" button. Enter the title and description for your new guide and then click "Create Repository".
-
-After the repository is created, you'll see the repo URL at the top. Copy this url by hitting the handy "Copy to Clipboard" button next to the text box. 
-
-Go back to the directory where you cloned the guides-template repository. We're going to change this repo to point to the one you just created (which is empty) and push the template to it.
-```
-git remote set-url origin https://github.com/18F/MY-NEW-GUIDE.git
-git push origin 18f-pages
-```
-
-Now you can edit the template freely, and push up changes as you need. 
+The goal of this guide is to assist other design teams in feeling confident in creating and maintaining their own design principles. 
 
 ### Public domain
 
