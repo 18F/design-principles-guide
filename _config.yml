@@ -27,7 +27,7 @@ navigation:
   url: index.html
   internal: true
 - text: Coming Soon!
-  url: coming-soon/
+  url: #
   internal: true
 
 
