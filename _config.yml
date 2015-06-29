@@ -32,9 +32,9 @@ navigation:
 
 
 repos:
-- name: Guides Template
+- name: Design Principles Guide
   description: Main repository
-  url: https://github.com/18F/guides-template
+  url: https://github.com/18F/design-principles-guide
 
 # Style Variables
 brand_color: "#1188ff"
