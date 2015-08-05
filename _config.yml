@@ -26,10 +26,15 @@ navigation:
 - text: Home
   url: index.html
   internal: true
-- text: Coming Soon!
-  url: #
+- text: Define
+  url: /Define/
   internal: true
-
+- text: Create
+  url: /Create/
+  internal: true
+- text: Usage
+  url: /Usage/
+  internal: true
 
 repos:
 - name: Design Principles Guide
