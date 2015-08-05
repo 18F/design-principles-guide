@@ -27,7 +27,7 @@ Another example, this time from [IBM](http://www.ibm.com/design/language/framewo
 
 *Explanation: *Support users in the ways they want to get help. Expand their knowledge and encourage them to share it.
 
-![Exmaple of IBM site for Design Principles](assets/img/image_0.png)
+![Example of IBM site for Design Principles](/assets/img/ibm-example.png)
 
 ## What makes a good set of design principles?
 
