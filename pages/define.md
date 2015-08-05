@@ -21,11 +21,11 @@ For example, from the BBC’s [Global Experience Language Design Philosophy](htt
 
 ![Image of Gel Example](assets/img/gel-example.png)
 
-Another example, this time from [IBM](http://www.ibm.com/design/language/framework/experience.shtml):
+Another example, this time from [IBM](http://www.ibm.com/design/language/framework/experience.shtml)
 
-*Title: *Get support
+*Title:* Get support
 
-*Explanation: *Support users in the ways they want to get help. Expand their knowledge and encourage them to share it.
+*Explanation:* Support users in the ways they want to get help. Expand their knowledge and encourage them to share it.
 
 ![Example of IBM site for Design Principles](/assets/img/ibm-example.png)
 
