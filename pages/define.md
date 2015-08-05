@@ -1,5 +1,5 @@
 ---
-permalink: /Define/
+permalink: define/
 layout: default
 title: Defining Design Principles
 ---
@@ -59,4 +59,4 @@ As designer Stephen P Anderson [writes](http://www.slideshare.net/stephenpa/desi
 
 ### Built together
 
-Designers tend to lead design principle creation, for understandable reasons. However, in order to serve as a common reference point, principles need support from an entire team and potentially across and within organizations. The best way to get that support is to include representatives of stakeholder groups in creating them. Small design teams are rarely successful in trying to impose fully formed principles on outsiders. Building principles together leads to principles that feel like they belong to everyone, not just an elite team. They also help avoid overly-literal or limited principles that are only relevant to a single discipline. 
+Designers tend to lead design principle creation, for understandable reasons. However, in order to serve as a common reference point, principles need support from an entire team and potentially across and within organizations. The best way to get that support is to include representatives of stakeholder groups in creating them. Small design teams are rarely successful in trying to impose fully formed principles on outsiders. Building principles together leads to principles that feel like they belong to everyone, not just an elite team. They also help avoid overly-literal or limited principles that are only relevant to a single discipline.
