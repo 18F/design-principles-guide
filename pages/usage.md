@@ -1,5 +1,5 @@
 ---
-permalink: /Usage/
+permalink: Usage/
 layout: default
 title: Using Design Principles
 ---
