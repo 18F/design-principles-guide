@@ -27,13 +27,13 @@ navigation:
   url: index.html
   internal: true
 - text: Define
-  url: /Define/
+  url: define/
   internal: true
 - text: Create
-  url: /Create/
+  url: create/
   internal: true
 - text: Usage
-  url: /Usage/
+  url: usage/
   internal: true
 
 repos:
