@@ -19,13 +19,15 @@ For example, from the BBC’s [Global Experience Language Design Philosophy](htt
 
 *Explanation:* We value the familiarity and trust placed in us. We acknowledge the BBC's heritage of iconic design and broadcasting history with subtle references.
 
+![image alt text](/assets/img/gel-example.png)
+
 Another example, this time from [IBM](http://www.ibm.com/design/language/framework/experience.shtml):
 
 *Title: *Get support
 
 *Explanation: *Support users in the ways they want to get help. Expand their knowledge and encourage them to share it.
 
-![image alt text](image_0.png)
+![image alt text](/assets/img/image_0.png)
 
 ## What makes a good set of design principles?
 
