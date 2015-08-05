@@ -1,5 +1,5 @@
 ---
-permalink: /usage/
+permalink: /Usage/
 layout: default
 title: Using Design Principles
 ---
@@ -27,4 +27,4 @@ It’s important for all members of the team describe the product in similar ter
 
 ### Evaluate
 
-During evaluation, design principles guide and support feedback. Based on the defined principles, the team can define what kind of feedback it wants. When reviewing the feedback, the principles help filter out feedback that may not apply to the product or its next iteration. 
+During evaluation, design principles guide and support feedback. Based on the defined principles, the team can define what kind of feedback it wants. When reviewing the feedback, the principles help filter out feedback that may not apply to the product or its next iteration.
