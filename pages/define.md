@@ -19,7 +19,7 @@ For example, from the BBC’s [Global Experience Language Design Philosophy](htt
 
 *Explanation:* We value the familiarity and trust placed in us. We acknowledge the BBC's heritage of iconic design and broadcasting history with subtle references.
 
-![Image of Gel Example](https://cloud.githubusercontent.com/assets/12515096/9100967/789ddae6-3ba6-11e5-9349-61d5999e738f.png)
+![Image of Gel Example](https://cloud.githubusercontent.com/assets/12515096/9100967/789ddae6-3ba6-11e5-9349-61d5999e738f.png|width=450 height=460)
 
 Another example, this time from [IBM](http://www.ibm.com/design/language/framework/experience.shtml)
 
