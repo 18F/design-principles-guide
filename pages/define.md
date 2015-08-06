@@ -19,7 +19,7 @@ For example, from the BBC’s [Global Experience Language Design Philosophy](htt
 
 *Explanation:* We value the familiarity and trust placed in us. We acknowledge the BBC's heritage of iconic design and broadcasting history with subtle references.
 
-![Image of Gel Example](/assets/img/gel-example.png)
+![Image of Gel Example](https://cloud.githubusercontent.com/assets/12515096/9100967/789ddae6-3ba6-11e5-9349-61d5999e738f.png)
 
 Another example, this time from [IBM](http://www.ibm.com/design/language/framework/experience.shtml)
 
@@ -27,7 +27,7 @@ Another example, this time from [IBM](http://www.ibm.com/design/language/framewo
 
 *Explanation:* Support users in the ways they want to get help. Expand their knowledge and encourage them to share it.
 
-![Example of IBM site for Design Principles](/assets/img/ibm-example.png)
+![Example of IBM site for Design Principles](https://cloud.githubusercontent.com/assets/12515096/9100968/78c30d20-3ba6-11e5-8355-ecd0e04331ae.png)
 
 ## What makes a good set of design principles?
 
