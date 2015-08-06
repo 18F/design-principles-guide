@@ -35,7 +35,9 @@ navigation:
 - text: Usage
   url: usage/
   internal: true
-
+- text: Resources
+  url: resources/
+  internal: true
 repos:
 - name: Design Principles Guide
   description: Main repository
