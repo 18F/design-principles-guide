@@ -1,9 +1,9 @@
 ---
 permalink: resources/
 layout: default
-title: Additional Resources
+title: Additional resources
 ---
-## Links Around The Web
+## Links around the web
 
 We've collected a handful of links that we have found helpful not only in the creation of this guide, but also when we create design principles ourselves.
 

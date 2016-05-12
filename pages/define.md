@@ -1,7 +1,7 @@
 ---
 permalink: define/
 layout: default
-title: Defining Design Principles
+title: Defining design principles
 ---
 ## Definition
 
@@ -31,7 +31,7 @@ Another example, this time from [IBM](http://www.ibm.com/design/language/framewo
 The *title* is:
 >Get support
 
-The *explanation* is: 
+The *explanation* is:
 > Support users in the ways they want to get help. Expand their knowledge and encourage them to share it.
 
 ## What makes a good set of design principles?

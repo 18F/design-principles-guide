@@ -1,7 +1,7 @@
 ---
 permalink: create/
 layout: default
-title: Creating Design Principles
+title: Creating design principles
 ---
 ## Making and using design principles
 

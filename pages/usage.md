@@ -1,7 +1,7 @@
 ---
 permalink: usage/
 layout: default
-title: Using Design Principles
+title: Using design principles
 ---
 ## Usage
 
