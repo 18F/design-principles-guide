@@ -24,7 +24,7 @@ The *title* is:
 The *explanation* is: 
 > We value the familiarity and trust placed in us. We acknowledge the BBC's heritage of iconic design and broadcasting history with subtle references.
 
-Another example, this time from [IBM](http://www.ibm.com/design/language/framework/experience.shtml)
+Another example, this time from [IBM](https://www.ibm.com/design/language/experience)
 
 ![Example of IBM site for Design Principles](https://cloud.githubusercontent.com/assets/12515096/9101094/04d80f08-3ba8-11e5-9e83-0b3b9dfa65a3.png)
 
